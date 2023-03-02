@@ -1,6 +1,6 @@
 I am Alexandr Linux. This is my docker tor-client for Synology NAS.
 
-Tor client (Socks proxy ) version 0.4.2.7 OS Ubuntu
+Tor client (Socks proxy ) version 0.4.6.10 OS Ubuntu
 
 Install Synology NAS:
 
