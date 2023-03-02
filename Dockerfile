@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER Alexandr Linux <baf@bafista.ru>
+MAINTAINER Alexandr Linux <site bafista.ru>
 
 # LABEL about the custom image
 LABEL version="0.1"
